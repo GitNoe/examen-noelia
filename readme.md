@@ -23,3 +23,9 @@
 7. Iniciar git en el proyecto, añadir todo y confirmar para su subida a Github mediante terminal de laragon (git init, git add ., git commit)
 8. Añadir y Push repositorio a la nube mediante Github Desktop, si hay cambios hacer de nuevo commit y push
 9. Generar un link con github Pages e imprimir las pantallas y el readme.md
+
+## Pantallas
+
+![Index](../examen-noelia/img/Index_page-0001.jpg)
+![Page](../examen-noelia/img/Page_page-0001.jpg)
+![Contact](../examen-noelia/img/Contact_page-0001.jpg)
