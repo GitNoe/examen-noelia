@@ -26,6 +26,6 @@
 
 ## Pantallas
 
-![Index](../examen-noelia/img/Index_page-0001.jpg)
-![Page](../examen-noelia/img/Page_page-0001.jpg)
-![Contact](../examen-noelia/img/Contact_page-0001.jpg)
+![Index](../examen-noelia/img/index.png)
+![Page](../examen-noelia/img/page.png)
+![Contact](../examen-noelia/img/contact.png)
