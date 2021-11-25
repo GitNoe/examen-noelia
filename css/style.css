@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  margin: 10px;
+  text-decoration: underline red;
+}
+p{
+  width: 60%;
+  margin: auto;
+  text-align: left;
+  margin-bottom: 5px;
+}
